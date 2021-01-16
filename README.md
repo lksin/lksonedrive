@@ -1,3 +1,2 @@
 # lksonedrive
-# Index
-why not go to lksin.gitee.io/lksondrive
+why not go to [lksin.gitee.io/lksondrive](lksin.gitee.io/lksondrive)
